@@ -1,6 +1,6 @@
 # Kaggle Titanic Challenge con Pyspark
 
-<img src="./assets/apache-spark.png" height=300 width=300 alt="spark-logo">
+<img src="./assets/apache-spark.png" height=200 width=300 alt="spark-logo">
 
 ## **Equipo 4**:
 | <h4>Alumno</h4> | <h4>Matricula</h4> |
